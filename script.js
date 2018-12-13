@@ -81,9 +81,3 @@ function renderBreeds(obj) {
         });
     }
 };
-
-//hur gör man så när man klickar bak så ska den upptadera till färegående sida?!!!!!!!!!! || VI KMR NÄMNA DE SEN
-//Store a condition as a variable. || YES det går let
-//skicka med ett argument i func i eventlisterner? || NEJ DU MÅSTE WRAPPA DEN ISÅFALL
-//när du nämmner att det är lättare att radera allt och bara upptatera med det nhya menar du innerHTML = ''; eller? || JA RÄTT
-//när man refreshar så gör man nytt ajax anrop får man ha det så eller en refresh ska spara senaste bilden. || ja det är ok
